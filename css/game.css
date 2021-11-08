@@ -1,0 +1,137 @@
+.backimg
+{
+    
+    background-position: center;
+    background-size: cover;
+}
+.overlay
+{
+    height: 750px;
+    background-color: rgba(0, 128, 128, 0.308);
+}
+
+.newsfront
+{
+    position: relative;
+    top: -29px;  
+}
+.newsback
+{
+    position: relative;
+    top: -2px;
+}
+marquee
+{
+    position: relative;
+    top: 20px;
+}
+.icon
+{
+    color: blanchedalmond;
+    font-weight: 400;           
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+#icon1
+{
+    background-color:rgba(172, 38, 15, 0.932); 
+    letter-spacing: 1px;
+    padding: 5px 15px;
+    margin-right: 15px; 
+               
+}
+#icon2
+{
+    background-color:rgba(0, 128, 128, 0.678);     
+    letter-spacing: 1px;
+    padding: 5px 15px;
+    margin-right: 15px;
+}
+#icon3
+{
+    background-color:rgba(172, 38, 15, 0.932);     
+    letter-spacing: 1px;
+    padding: 5px 15px;
+    margin-right: 15px;
+}
+#icon4
+{
+    background-color:rgba(0, 128, 128, 0.678);      
+    letter-spacing: 1px;
+    padding: 5px 15px;
+    margin-right: 15px;
+}
+.content p
+{
+    background-color: rgba(95, 158, 160, 0.075);
+    color: white;
+}
+#section1
+{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.heading
+{
+    font-size:25px ;
+    font-weight:600 ;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 40px;
+}
+.words
+{
+    text-align: center;
+    padding: 20px;
+    font-weight: 500;
+    color: grey;
+    margin-bottom: 40px;
+    position: relative;
+    bottom: 40px;
+}
+.loadmore
+{
+    background-color: rgb(167, 42, 20);
+    display: inline-block;
+    width: max-content;
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 40px;
+    position: relative;
+    left: 500px;
+    color: black;
+}
+
+.loadmore:hover
+{
+    background-color: rgb(252, 79, 49);
+    color: rgb(117, 27, 11);
+}
+.rating
+{
+    background-color: teal;
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    width: max-content;
+    padding: 10px 11px;
+    border-radius: 100px;
+    position: relative;
+    bottom: 378px;
+    right: 10px;
+    border: black solid 0.5px;
+
+}
+.starrate
+{
+    position: relative;
+    bottom: 40px;
+    left: 220px;
+    color:tomato;
+}
+.emptystar
+{
+    color: rgba(128, 128, 128, 0.644);
+}
